@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633037411461",
+    "project_id": "cevh-87c80",
+    "storage_bucket": "cevh-87c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633037411461:android:783fef1a572157e54305ec",
+        "android_client_info": {
+          "package_name": "com.example.jonah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633037411461-9m9934u6sf3jch7vrubmttok3frrsm6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnVZWMoZRw2wQADCRD79kffFfjdzFa8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633037411461-9m9934u6sf3jch7vrubmttok3frrsm6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
